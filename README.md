@@ -2,9 +2,10 @@
 Investigated the factors that affect a student's performance in high school. Trained and tested several supervised machine learning models on a given dataset to predict how likely a student is to pass. Selected the best model based on relative accuracy and efficiency.
 
 
-# Attributes for both student-mat1.csv (Math course) and student-por1.csv (Portuguese language course) datasets:
+Attributes for both student-mat1.csv (Math course) and student-por1.csv (Portuguese language course) datasets:
 1 school - student's school (binary: "GP" - Gabriel Pereira or "MS" - Mousinho da Silveira)
 2 sex - student's sex (binary: "F" - female or "M" - male)
+
 3 age - student's age (numeric: from 15 to 22)
 4 address - student's home address type (binary: "U" - urban or "R" - rural)
 5 famsize - family size (binary: "LE3" - less or equal to 3 or "GT3" - greater than 3)
